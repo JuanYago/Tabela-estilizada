@@ -1,0 +1,24 @@
+.cabeçalhomoda{
+    background-color:#BB86FC ;
+    color: white;
+    
+    
+
+}
+
+.cabeçalhocasa {
+    background-color:  #00C4B4;
+    color: white;
+
+}
+
+.valorestabela {
+    background-color: #424250;
+    color: white; 
+    
+}
+
+th, td {
+    padding: 16px;
+
+}
